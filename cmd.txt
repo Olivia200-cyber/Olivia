@@ -1,1 +1,1 @@
-shutdown /s /t 30 /c
+shutdown /s /t 60 /c
