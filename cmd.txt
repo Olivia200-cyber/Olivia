@@ -1,1 +1,1 @@
-shutdown /s /t 60 /c
+ZWNobyBIZWxsbyBmcm9tIGFnZW50
