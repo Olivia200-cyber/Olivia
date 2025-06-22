@@ -1,9 +1,10 @@
  Volume in drive F has no label.
  Volume Serial Number is 196D-CE17
 
- Directory of F:\
+ Directory of F:\Users\kiss\Documents
 
+06/22/2025  02:19 AM    <DIR>          .
+06/22/2025  02:19 AM    <DIR>          ..
 06/22/2025  12:13 AM         1,658,768 gith.exe
-06/21/2025  11:39 PM    <DIR>          .Trash-1000
                1 File(s)      1,658,768 bytes
-               1 Dir(s)  15,707,111,424 bytes free
+               2 Dir(s)  15,707,086,848 bytes free
