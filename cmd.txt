@@ -1,1 +1,1 @@
-shutdown /l /c "Ta session s'ouvrira dans deux minutes..."
+whoami
